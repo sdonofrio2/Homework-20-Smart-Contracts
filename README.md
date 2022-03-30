@@ -1,4 +1,4 @@
-# Homework-20-Smart-Contracts
+# Smart-Contracts
 
 In this repository I created a Solidity Joint Savings smart contract. 
 
